@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LoginPageDemo</string>
+    <string name="login">login</string>
+    <string name="sign_out">sign_out</string>
+    <string name="forgot_password">Forgot your Password?</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+
+     <dropDownMenuExample>
+         <string-array name="United States">
+             <item>Australlia</item>
+             <item>England</item>
+             <item>Europe</item>
+             <item>India</item>
+             <item>Russia</item>
+         </string-array>
+
+</dropDownMenuExample>
+</resources>
+
+
+
